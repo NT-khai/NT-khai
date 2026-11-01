@@ -27,29 +27,8 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" height="32" alt="🚀" /> Tech Stack
-
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,java,py&perline=10&theme=dark" alt="Languages" />
-</p>
-
-<p align="center"><b>Backend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,spring,django&perline=10&theme=dark" alt="Backend" />
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" alt="Gin" />
-</p>
-
-<p align="center"><b>Frontend &amp; Mobile</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs&perline=10&theme=dark" alt="Frontend" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-</p>
-
-<p align="center"><b>Database &amp; DevOps</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github&perline=10&theme=dark" alt="DB and DevOps" />
-</p>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" height="32" alt="🚀" /> Tech Stack
+<p align="center"> <img src="./tech-stack.svg" alt="Tech Stack" width="100%" /> </p>
 
 ---
 
