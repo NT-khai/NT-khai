@@ -20,10 +20,8 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/coder.gif" alt="coding" />
 
 - 🎓 Sinh viên năm 3 tại **Đại học Giao thông Vận tải TP.HCM**
-- 💼 Đã thực tập với **NestJS** và **PostgreSQL**
 - 🎯 Mục tiêu: trở thành **Backend Engineer**, đang tìm **Internship / Freelance**
 - 🌱 Đang đào sâu: **kiến trúc hệ thống · tối ưu SQL · scaling · bảo mật · cloud**
-- 🐍 Ngoài ra: Python, Django và các chủ đề về AI
 
 <br clear="right"/>
 
@@ -72,7 +70,7 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32" alt="🐍" /> Contribution Snake
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32" alt="🐍" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NT-khai/NT-khai/output/github-snake-dark.svg" alt="snake" />
