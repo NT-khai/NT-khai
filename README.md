@@ -32,8 +32,6 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32" alt="🐍" />
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/NT-khai/NT-khai/output/github-snake-dark.svg" alt="snake" />
 </p>
