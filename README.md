@@ -3,7 +3,7 @@
 
 <!-- Chữ gõ chạy -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Sinh+viên+năm+3+%40+UTH+HCMC;Backend+Developer+với+TypeScript+%26+Go;Fullstack+với+Next.js+%26+React+Native;Đang+tìm+Internship+%2F+Freelance+🚀" alt="Typing SVG" />
+ 
 </p>
 
 ---
