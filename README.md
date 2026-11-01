@@ -18,7 +18,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=ts,go,py,nestjs,nextjs,react,django,postgres,docker,git,aws&perline=11" />
 </p>
-
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" width="100%"/>
 ## 📊 Thống kê GitHub
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
