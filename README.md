@@ -53,23 +53,6 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="32" height="32" alt="📊" /> GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NT-khai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NT-khai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NT-khai&theme=tokyonight&hide_border=true&background=0f2027" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NT-khai&theme=tokyo-night&hide_border=true&bg_color=0f2027&area=true" alt="activity graph" width="95%" />
-</p>
-
----
-
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32" alt="🐍" />
 
 <p align="center">
