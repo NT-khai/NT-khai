@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=NT-khai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-2ea44f?style=for-the-badge&logo=target&logoColor=white" alt="status" />
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-0e75b6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
 </p>
@@ -58,16 +58,16 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="32" height="32" alt="📊" /> GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="top langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NT-khai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NT-khai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f2027" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NT-khai&theme=tokyonight&hide_border=true&background=0f2027" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0f2027&area=true" alt="activity graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NT-khai&theme=tokyo-night&hide_border=true&bg_color=0f2027&area=true" alt="activity graph" width="95%" />
 </p>
 
 ---
@@ -75,17 +75,7 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32" alt="🐍" /> Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="snake" />
-</p>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" width="32" height="32" alt="📫" /> Liên hệ
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://raw.githubusercontent.com/NT-khai/NT-khai/output/github-snake-dark.svg" alt="snake" />
 </p>
 
 <!-- ================= FOOTER ================= -->
